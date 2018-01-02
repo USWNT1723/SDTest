@@ -9,3 +9,8 @@
 
 
 # Check 100000
+
+
+#Check with push command?
+
+#With a pull???
