@@ -23,10 +23,16 @@
 
 # use a push then I guess
 
-
+# this is a comment
 def test_function():
     print("Hi")
 
 
 test_function()
+print('test 2')
+for x in range(1, 10):
+    print(x)
+
+
+
 
