@@ -23,3 +23,10 @@
 
 # use a push then I guess
 
+
+def test_function():
+    print("Hi")
+
+
+test_function()
+
